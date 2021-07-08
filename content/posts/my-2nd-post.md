@@ -1,6 +1,5 @@
 ---
-title: "My 2nd Post"
+title: My 2nd Post here
 date: 2021-07-08T18:26:57+05:30
 draft: true
 ---
-
