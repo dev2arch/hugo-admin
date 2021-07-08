@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://cranky-lumiere-6321ec.netlify.app/</loc>
+    <lastmod>2021-07-08T18:26:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cranky-lumiere-6321ec.netlify.app/posts/my-2nd-post/</loc>
+    <lastmod>2021-07-08T18:26:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cranky-lumiere-6321ec.netlify.app/posts/</loc>
+    <lastmod>2021-07-08T18:26:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cranky-lumiere-6321ec.netlify.app/posts/my-first-post/</loc>
     <lastmod>2021-07-08T15:38:44+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2021-07-08T15:38:44+05:30</lastmod>
+    <loc>https://cranky-lumiere-6321ec.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2021-07-08T15:38:44+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://cranky-lumiere-6321ec.netlify.app/tags/</loc>
   </url>
   
 </urlset>
