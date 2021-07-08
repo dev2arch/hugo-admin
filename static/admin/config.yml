@@ -1,5 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: dev2arch/hugo-admin # Path to your GitHub repository
+  # optional, defaults to master
+  # branch: main
 
 media_folder: "static/img" # Folder where user uploaded files should go
 public_folder: "img"
