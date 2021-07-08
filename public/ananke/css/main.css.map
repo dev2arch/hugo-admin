@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/dewanshusingh/workspace/adminStartUp",
+	"sourceRoot": "/Users/dewanshusingh/workspace/hugo-admin",
 	"sources": [
 		"stdin"
 	],
